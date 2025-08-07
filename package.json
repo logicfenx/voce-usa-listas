@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/voce-usa-listas",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a voce-usa-listas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/voce-usa-listas.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/listas-de-transmissao-no-whatsapp/"
+    },
+    "homepage": "https://isproto.com/listas-de-transmissao-no-whatsapp/"
+}
